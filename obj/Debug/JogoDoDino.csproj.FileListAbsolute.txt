@@ -1,0 +1,7 @@
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\bin\Debug\JogoDoDino.exe.config
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\bin\Debug\JogoDoDino.exe
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\bin\Debug\JogoDoDino.pdb
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\obj\Debug\JogoDoDino.csproj.AssemblyReference.cache
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\obj\Debug\JogoDoDino.csproj.CoreCompileInputs.cache
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\obj\Debug\JogoDoDino.exe
+C:\Users\Lázaro Nascimento\source\repos\JogoDoDino\JogoDoDino\obj\Debug\JogoDoDino.pdb
